@@ -1,13 +1,13 @@
 # ExternalMapuUilsLibrary
 
 # 最新版本v1.1.0（v1.0.0的JitPack版本已删除 请知悉 请使用v1.1.0版本）
-[简书博客地址](https://www.jianshu.com/p/b24374cfefb3) : https://www.jianshu.com/p/b24374cfefb3
+[简书博客地址](https://blog.csdn.net/qq_42795723/article/details/104983906) : https://blog.csdn.net/qq_42795723/article/details/104983906
 
 png文件夹下有截图文件 自行查看
 
-![image](https://github.com/MZCretin/ExternalMapUtils/blob/master/png/Screenshot_20170509-152819.png)
+![image](https://github.com/XiaoKeXin09/ExternalMapUtils/tree/master/png/Screenshot_20170509-152819.png)
 
-![视频](https://github.com/MZCretin/ExternalMapUtils/blob/master/movie/movie.mp4)
+![视频](https://github.com/XiaoKeXin09/ExternalMapUtils/tree/master/movie/movie.mp4)
 
 ## 更新说明(2018年01月05日14:46:39)
 
@@ -26,7 +26,7 @@ allprojects { repositories { ... maven { url 'https://jitpack.io' } } }
 
 **Step 2.** Add the dependency
 ```gradle
-dependencies { compile 'com.github.MZCretin:ExternalMapUtils:v1.1.0' }
+dependencies { compile 'com.github.XiaoKeXin09:ExternalMapUtils:v1.0.0' }
 ```
 
 **Step 3.** Start using it wherever you want as below.
